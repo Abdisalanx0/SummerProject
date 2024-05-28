@@ -14,7 +14,7 @@ Clone the project
 ```
 
 ```bash
-cd front end
+Cd front end
 npm install
 npm run dev
 ```
